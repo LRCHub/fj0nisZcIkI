@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Sing! Shine! Smile!",
+  "base_artist": "Liella!",
+  "createdAt": "2026-02-06T12:56:38.341796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sing! Shine! Smile!",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_Sing!_Shine!_Smile!_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sing! Shine! Smile!",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/02_Sing!_Shine!_Smile!_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sing! Shine! Smile!",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/03_Sing!_Shine!_Smile!_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sing！Shine！Smile！",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/04_Sing!Shine!Smile!_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sing! Shine! Smile!",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/05_Sing!_Shine!_Smile!_Liella!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sing!Shine!Smile!",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_Sing!Shine!Smile!_Liella!.txt"
+    }
+  ]
+}
